@@ -2,14 +2,18 @@
 
 <!-- [![Blog](https://img.shields.io/website?label=site.com&style=for-the-bagge&url=https://site.com/)](https://google.com.br) -->
 <!-- [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://google.com.br) -->
-[![Instagram](https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizcarlosli/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizcarlosli/)
 [![Gmail](https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:designarttdev@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-00a884?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/5537991867789)
 <!-- [![Twitch](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://google.com.br) -->
 
+<div style="display: flex; gap: 15px">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=designarttdev&show_icons=true&theme=highcontrast)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=designarttdev&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ### Tcnologias que eu uso no meu dia
 
