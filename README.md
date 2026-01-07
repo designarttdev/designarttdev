@@ -1,5 +1,8 @@
 ### Olá! Eu sou o Luiz Carlos 🖐️
 
+Sou **Desenvolvedor de Sistemas**, apaixonado por tecnologia e por construir soluções que realmente fazem a diferença no dia a dia das pessoas e das empresas.  
+Atuo há anos com sistemas desktop e banco de dados, mas hoje direciono meus estudos e objetivos para o **desenvolvimento Web e Mobile**, buscando evolução constante e novos desafios.
+
 <!-- [![Blog](https://img.shields.io/website?label=site.com&style=for-the-bagge&url=https://site.com/)](https://google.com.br) -->
 <!-- [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://google.com.br) -->
 [![Linkedin](https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizcarlosli/)
@@ -15,7 +18,9 @@
 
 </div>
 
-### Tcnologias que eu uso no meu dia
+---
+
+### Tecnologias que utilizo no dia a dia
 
 <div style="display: inline-block">
 <br/>
@@ -33,16 +38,22 @@
 </div>
 <br/>
 
-### Competências
+---
 
-Desenvolvedor de Sistemas com base em sistemas feitos na Plataforma Delphi 10.3.
+### Competências e Objetivos
 
-Apaixonado por tecnologia, buscando sempre aprender mais e mais.
+- Desenvolvedor de Sistemas com sólida experiência em **Delphi 10.3** e bancos de dados relacionais.  
+- Forte interesse em **arquitetura de software**, performance e boas práticas de desenvolvimento.
+- Estudante dedicado de **tecnologias Web e Mobile**, com foco em:
+  - Front-end moderno
+  - Experiência do usuário (UI/UX)
+  - Aplicações escaláveis e bem estruturadas
+- Em constante evolução com **HTML5, CSS3, JavaScript, TypeScript**, além de frameworks e bibliotecas do ecossistema Web.
 
-Atualmente estou estudando diariamente o Framework Angular, HTML5 e CSS3. 
+Meu objetivo é atuar cada vez mais próximo do **desenvolvimento Web e Mobile**, participando da criação de interfaces modernas, funcionais e bem pensadas, sem abrir mão da base sólida que construí ao longo da minha trajetória.
 
-Pretendo focar mais na área de Front-End, pois é uma área que eu gosto bastante e que sempre foi meu sonho trabalhar com a parte ```Web```.
+---
 
-## Foco sempre nos estudos! O sucesso virá!
+## 🚀 Foco, constância e evolução diária. O sucesso é consequência!
 
 <!-- Para informar links "[label do link](link)" -->
