@@ -12,9 +12,16 @@ Atuo há anos com sistemas desktop e banco de dados, mas hoje direciono meus est
 
 <div style="display: flex; gap: 15px">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=designarttdev&show_icons=true&theme=highcontrast)
+### 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=designarttdev&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Followers](https://img.shields.io/github/followers/designarttdev?style=for-the-badge&logo=github&logoColor=white)](https://github.com/designarttdev)
+[![GitHub Stars](https://img.shields.io/github/stars/designarttdev?style=for-the-badge&logo=github&logoColor=white)](https://github.com/designarttdev?tab=repositories)
+[![Public Repositories](https://img.shields.io/badge/Repos-Públicos-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/designarttdev?tab=repositories)
+
+### 🧠 Linguagens e Foco
+
+[![Focus](https://img.shields.io/badge/Foco-Web%20%26%20Mobile-6f42c1?style=for-the-badge&logo=code&logoColor=white)](#)
+[![Stack](https://img.shields.io/badge/Stack-JavaScript%20%7C%20TypeScript%20%7C%20Delphi-f39c12?style=for-the-badge&logo=javascript&logoColor=white)](#)
 
 </div>
 
